@@ -56,7 +56,7 @@ A few more potential ideas for **_extra credit_** (these are just suggestions, f
 * Sometimes, in addition to the pre-defined letter language, the user may need to inject some language in the middle, or modify some of the standard language.  Add an editor/live-preview of the letter after the Policy/Letter type have been selected, perhaps using [trix](https://trix-editor.org/).
 * The user may at times need to batch-generate the same standard letter for multiple policies.  Extend the search results to allow for multi-selection and batch generation of the rendered letters.
 * Some search interfaces will list each individual field you can search on (eg First Name, Last Name, Policy Number, Policy Type) etc.  This can be useful in an "Advanced Search" interface, but consider presenting a single search field that can intelligently/efficiently search against multiple fields.
-* We are hoping to make our hiring decision **before month-end February, 2018** so you have a few weeks to complete as much as you are able.  To submit your project or request clarification, simply relpy back to the SmartRecruiters message where you were invited to start this project.
+* We are hoping to make our hiring decision **before month-end February, 2018** so you safely have until around **Friday, 2/23** to complete as much as you are able.  To submit your project or request clarification, simply reply back to the SmartRecruiters message where you were invited to start this project.
 
 ### GLHF
 The Farmers Fire Insurance Company
